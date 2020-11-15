@@ -1,0 +1,22 @@
+html{
+    background: #e3e3e3
+}
+
+body{
+    margin: 20px;
+    padding: 20px;
+    color: #242424;
+    border-top: 10px solid #242424;
+}
+
+.button1{
+    color: blueviolet;
+}
+
+.button2{
+    color: red;
+}
+
+.button3{
+    color: green;
+}
